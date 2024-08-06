@@ -1,0 +1,10 @@
+table {
+    width: 50%; /* Opcional: Ajusta el ancho de la tabla según tus necesidades */
+    border-collapse: collapse; /* Opcional: Elimina el espacio doble entre bordes */
+  }
+  
+  th, td {
+    text-align: left; /* Centra el texto horizontalmente */
+    vertical-align: middle; /* Centra el texto verticalmente (opcional) */
+    padding: 20px; /* Opcional: Agrega espacio interno a las celdas */
+  }
